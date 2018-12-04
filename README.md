@@ -1,4 +1,4 @@
-# vue-course.github.io
-Vue.js courseware for my students
+# VUE | VUEX | VUETIFY
+Vue.js courseware
 
-demo:   https://garevna.github.io/vue-course.github.io/
+### [demo](https://garevna.github.io/vue-course.github.io/)
